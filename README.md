@@ -6,4 +6,4 @@ Baixei o Audio da video aula e forneci ao serviço de conversão da Speech Studi
 Detalhes consta no Azure Speech Studio
 
 Para nao repetir a atividade em questão e tambem por curiosidade, utilizei o resultado da conversão de fala em texto da video aula anterior e apliquei no Language Studio para desco brir o que aconteceria caso fosse utilizado um texto que nao necessariamente é ideal a funçao utilizada, e os detalhes consta em Azure Language Studio.
-Foi convertido através de IA o Resultado em Json para Markdown de acordo com meu pedido para que conste uma forma ilustrada do resultado.
+Foi convertido através de IA o Resultado em Json para Markdown de acordo com meu pedido para que conste uma forma ilustrada no arquivo: Resultado dos Reviews pelo Servico Language Studio.md
