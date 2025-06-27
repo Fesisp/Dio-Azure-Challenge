@@ -1,6 +1,14 @@
 # Dio-Azure-Challenge
 
-Os Serviços de bot são utilizados para interagir e resolver potenciais duvidas ou problemas.Antigamente era utilizado uma base de dados local que fornecia atraves de palavras chaves ou ja lhe fornecia as escolhas e o usuario ia tentando resolver se constar no banco de dados. Atualmente ja temos as respostas generativas que agora são capazes de nos fornecer uma resposta mais interessante em que as respostas vão ser com qualidade elevada e capaz de gerar uma confiança de acordo com a interação e maior potencial de alcançar a solução. O funcionamento ocorre através da declaração, entidade e intenção e dai executar de acordo com o esperado.
+Os Serviços de Bot são ferramentas projetadas para automatizar a interação com usuários, solucionando dúvidas e executando tarefas de forma eficiente. A tecnologia por trás desses serviços evoluiu drasticamente, transformando a experiência do usuário de interações rígidas para diálogos fluidos e inteligentes.
+
+Bots Tradicionais: Baseados em Regras e Palavras-Chave
+
+Inicialmente, os bots operavam com base em um banco de dados local e fluxos de conversa predefinidos. A interação era limitada: o bot identificava palavras-chave na pergunta do usuário ou oferecia um menu de opções. Se a dúvida do usuário não correspondesse exatamente a uma regra ou palavra-chave programada, o bot não conseguia ajudar, resultando em uma experiência muitas vezes frustrante.
+
+A Revolução da IA Generativa
+
+Atualmente, a introdução da Inteligência Artificial Generativa mudou completamente esse cenário. Os bots modernos são capazes de compreender o contexto e a nuance da linguagem humana. Em vez de buscarem respostas prontas, eles geram respostas originais, coesas e de alta qualidade. Isso resulta em conversas mais naturais e humanizadas, que aumentam a confiança do usuário e a probabilidade de resolver o problema de forma satisfatória na primeira interação.
 
 Baixei o Audio da video aula e forneci ao serviço de conversão da Speech Studio como teste 
 Detalhes consta no Azure Speech Studio
