@@ -1,9 +1,27 @@
-## Resultado dos Reviews (Language Studio)
-| #  | Sentença | Sentimento | Positivo | Neutro | Negativo |
-|----|----------|------------|----------|--------|----------|
-| 1  | Então vamos iniciar aqui a nosso laboratório falando um pouquinho sobre a exploração do estúdio de fala. | neutral | 0.03 | 0.96 | 0.01 |
-| 2  | Aqui a gente não está dentro do Agile, nós estamos diretamente no portal do estúdio de fala, então o endereço aqui vai ser speech.microsoft.com. | neutral | 0.01 | 0.76 | 0.24 |
-| 3  | Como que a gente vai fazer o login? | neutral | 0.00 | 1.00 | 0.00 |
+# Resultado da Análise de Sentimentos - Azure Language Studio
+
+> ⚡ **Nota**: Uma versão mais detalhada e formatada desta análise está disponível em [Analise_Sentimentos.md](Analise_Sentimentos.md)
+
+## 📊 Visão Geral
+Este documento apresenta os dados brutos da análise de sentimento realizada no Azure Language Studio sobre a transcrição de uma aula sobre Azure Speech Studio. Para uma análise mais detalhada e formatada, consulte o arquivo de análise completa.
+
+## 🔍 Metodologia
+- **Fonte do Texto**: Transcrição de áudio de uma aula sobre Azure Speech Studio
+- **Ferramenta**: Azure Language Studio
+- **Tipo de Análise**: Análise de Sentimento por Frase
+- **Métricas**: Pontuação de Sentimento (Positivo, Neutro, Negativo)
+
+## 📈 Resultados da Análise
+
+### 📊 Análise Detalhada por Frase
+
+| ID | Texto Analisado | Classificação | Pontuação (%) ||
+|:--:|----------------|:-------------:|:-------------:|:-------------:|
+| # | Conteúdo | Sentimento | 😊 Positivo | 😐 Neutro | ☹️ Negativo |
+|:--:|----------------|:-------------:|:-------------:|:-------------:|:-------------:|
+| 01 | Então vamos iniciar aqui a nosso laboratório falando um pouquinho sobre a exploração do estúdio de fala. | 😐 Neutro | 3% | 96% | 1% |
+| 02 | Aqui a gente não está dentro do Agile, nós estamos diretamente no portal do estúdio de fala, então o endereço aqui vai ser speech.microsoft.com. | 😐 Neutro | 1% | 76% | 24% |
+| 03 | Como que a gente vai fazer o login? | 😐 Neutro | 0% | 100% | 0% |
 | 4  | O mesmo login que você utilizou lá para a criação do portal? | neutral | 0.00 | 1.00 | 0.00 |
 | 5  | Então aqui a autenticação é a mesma, até porque ele faz sincronização dos serviços, OK? | neutral | 0.00 | 1.00 | 0.00 |
 | 6  | Essa funcionalidade, na verdade. | neutral | 0.00 | 1.00 | 0.00 |
