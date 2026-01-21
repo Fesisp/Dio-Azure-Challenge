@@ -1,6 +1,6 @@
 # Azure Cloud & AI Solutions Portfolio ☁️
 
-Implementações práticas de Serviços Cognitivos (Speech/Language) e Banco de Dados SQL na nuvem Azure
+Practical implementations of Azure Cognitive Services (Speech/Language) and Cloud SQL Database management
 
 ## 📋 Visão Geral
 Este projeto demonstra a implementação prática de serviços cognitivos e computação em nuvem do Azure, desenvolvido como parte do bootcamp Microsoft Azure AI Fundamentals da DIO. O projeto integra quatro serviços principais do Azure para criar uma solução completa de processamento e análise de conteúdo.
