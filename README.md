@@ -2,6 +2,11 @@
 
 Practical implementations of Azure Cognitive Services (Speech/Language) and Cloud SQL Database management
 
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-Cloud-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?logo=microsoft-sql-server&logoColor=white)]()
+[![AI](https://img.shields.io/badge/Azure_AI-Cognitive_Services-5C2D91?logo=microsoft&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Completed-success)]()
+
 ## 📋 Visão Geral
 Este projeto demonstra a implementação prática de serviços cognitivos e computação em nuvem do Azure, desenvolvido como parte do bootcamp Microsoft Azure AI Fundamentals da DIO. O projeto integra quatro serviços principais do Azure para criar uma solução completa de processamento e análise de conteúdo.
 
